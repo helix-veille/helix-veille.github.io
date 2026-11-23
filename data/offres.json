@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-23T12:54:29.153Z",
+ "maj": "2026-11-23T23:18:20.427Z",
  "offres": {
   "26-104009": {
    "id": "26-104009",
@@ -201,6 +201,27 @@
    },
    "email2": "portsantalucia@ville-saintraphael.fr",
    "first_seen": "2026-11-20T02:27:00.757Z"
+  },
+  "ted-815776-2026": {
+   "id": "ted-815776-2026",
+   "kind": "ao",
+   "source": "ted",
+   "cat": "gardiennage",
+   "titre": "PRESTATIONS DE GARDIENNAGE DU SITE DE L'ISDND DE BAGNOLS EN FORET - 83",
+   "acheteur": "SPL Le Vallon des Pins (83)",
+   "ville": "BAGNOLS EN FORET",
+   "dep": "83",
+   "km": 8,
+   "limite": "2026-12-28T11:00:00.000Z",
+   "parution": "2026-11-24",
+   "email": "contact@splvdp.fr",
+   "tel": "",
+   "plateforme": null,
+   "avis": "https://ted.europa.eu/fr/notice/-/detail/815776-2026",
+   "montant": null,
+   "resume": "",
+   "proc": "Avis européen (TED)",
+   "first_seen": "2026-11-23T23:18:20.427Z"
   }
  }
 }
