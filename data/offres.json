@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-23T23:18:20.427Z",
+ "maj": "2026-11-24T04:43:45.435Z",
  "offres": {
   "26-104009": {
    "id": "26-104009",
@@ -222,6 +222,30 @@
    "resume": "",
    "proc": "Avis européen (TED)",
    "first_seen": "2026-11-23T23:18:20.427Z"
+  },
+  "26-113223": {
+   "id": "26-113223",
+   "kind": "ao",
+   "source": "boamp",
+   "cat": "gardiennage",
+   "titre": "Prestations de gardiennage du site de l’Installation de Stockage des Déchets Non Dangereux (ISDND) du Vallon des Pins sur la commune de Bagnols en Forêt (83).",
+   "acheteur": "SPL Le Vallon des Pins (83)",
+   "ville": "Bagnols-en-Forêt",
+   "dep": "83",
+   "km": null,
+   "limite": "2026-12-28T11:00:00+00:00",
+   "parution": "2026-11-24",
+   "proc": "Procédure Ouverte",
+   "email": "contact@splvdp.fr",
+   "email2": "",
+   "tel": "+33 498123818",
+   "plateforme": "https://www.marches-securises.fr",
+   "avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-113223",
+   "resume": "Prestations de gardiennage du site de l installation de Stockage des Dechets Non Dangereux (ISDND) du Vallon des Pins sur la commune de Bagnols en Foret \nLa consultation donnera lieu à un accord-cadre à bon de commande mono attributaire , avec un minimum de 30 000 EUR HT et un maximum de 120 000 EUR HT par an.",
+   "montant": null,
+   "duree": "90 jours",
+   "hab": false,
+   "first_seen": "2026-11-24T04:43:45.435Z"
   }
  }
 }
