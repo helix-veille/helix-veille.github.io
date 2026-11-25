@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-24T11:18:33.273Z",
+ "maj": "2026-11-25T14:58:21.932Z",
  "offres": {
   "26-104009": {
    "id": "26-104009",
@@ -71,9 +71,6 @@
    "montant": null,
    "duree": null,
    "hab": true,
-   "aussi": [
-    "msecu"
-   ],
    "first_seen": "2026-11-18T20:49:38.783Z"
   },
   "26-102535": {
@@ -245,9 +242,6 @@
    "montant": null,
    "duree": "90 jours",
    "hab": false,
-   "aussi": [
-    "msecu"
-   ],
    "first_seen": "2026-11-24T04:43:45.435Z"
   }
  }
